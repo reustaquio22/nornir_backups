@@ -1,0 +1,41 @@
+{
+  "dir": {
+    "flash0:/": {
+      "files": {
+        "boot": {
+          "index": "1",
+          "permissions": "drw-",
+          "size": "0",
+          "last_modified_date": "Jan 30 2013 00:00:00 +00:00"
+        },
+        "config": {
+          "index": "264",
+          "permissions": "drw-",
+          "size": "0",
+          "last_modified_date": "Oct 14 2013 00:00:00 +00:00"
+        },
+        "vios-adventerprisek9-m": {
+          "index": "267",
+          "permissions": "-rw-",
+          "size": "143178592",
+          "last_modified_date": "Mar 22 2016 00:00:00 +00:00"
+        },
+        "nvram": {
+          "index": "268",
+          "permissions": "-rw-",
+          "size": "524288",
+          "last_modified_date": "Apr 29 2020 16:49:32 +00:00"
+        },
+        "e1000_bia.txt": {
+          "index": "269",
+          "permissions": "-rw-",
+          "size": "79",
+          "last_modified_date": "Jun 1 2020 20:07:16 +00:00"
+        }
+      },
+      "bytes_total": "2142715904",
+      "bytes_free": "1994403840"
+    },
+    "dir": "flash0:/"
+  }
+}
