@@ -10,7 +10,7 @@
     "compiled_by": "prod_rel_team",
     "rom": "Bootstrap program is IOSv",
     "hostname": "core-bos-1",
-    "uptime": "3 hours, 8 minutes",
+    "uptime": "8 hours, 20 minutes",
     "returned_to_rom_by": "reload",
     "system_image": "flash0:/vios-adventerprisek9-m",
     "last_reload_reason": "Unknown reason",
@@ -18,7 +18,7 @@
     "main_mem": "460017",
     "processor_type": "revision 1.0",
     "rtr_type": "IOSv",
-    "chassis_sn": "9CVYVV7JBGJGHQFANBL0Z",
+    "chassis_sn": "94SE5P4ZW7M6ERWA1WL2I",
     "number_of_intfs": {
       "Gigabit Ethernet": "4"
     },
